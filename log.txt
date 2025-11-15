@@ -1,3 +1,5 @@
+99de32e Task 1.2: Git Log addition
+c00e312 fixes
 11be15a Task 2.4: refactoring with split loops
 7471f06 updating log.txt
 4569c41 Task 2.3: Refactoring string formatting
